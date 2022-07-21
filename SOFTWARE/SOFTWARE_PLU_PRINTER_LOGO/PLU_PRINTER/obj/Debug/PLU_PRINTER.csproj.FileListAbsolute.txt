@@ -1,0 +1,65 @@
+c:\users\gerardo\documents\visual studio 2015\Projects\PLU_PRINTER\PLU_PRINTER\bin\Debug\PLU_PRINTER.exe.config
+c:\users\gerardo\documents\visual studio 2015\Projects\PLU_PRINTER\PLU_PRINTER\bin\Debug\PLU_PRINTER.exe
+c:\users\gerardo\documents\visual studio 2015\Projects\PLU_PRINTER\PLU_PRINTER\bin\Debug\PLU_PRINTER.pdb
+c:\users\gerardo\documents\visual studio 2015\Projects\PLU_PRINTER\PLU_PRINTER\obj\Debug\PLU_PRINTER.csprojResolveAssemblyReference.cache
+c:\users\gerardo\documents\visual studio 2015\Projects\PLU_PRINTER\PLU_PRINTER\obj\Debug\PLU_PRINTER.Properties.Resources.resources
+c:\users\gerardo\documents\visual studio 2015\Projects\PLU_PRINTER\PLU_PRINTER\obj\Debug\PLU_PRINTER.csproj.GenerateResource.Cache
+c:\users\gerardo\documents\visual studio 2015\Projects\PLU_PRINTER\PLU_PRINTER\obj\Debug\PLU_PRINTER.exe
+c:\users\gerardo\documents\visual studio 2015\Projects\PLU_PRINTER\PLU_PRINTER\obj\Debug\PLU_PRINTER.pdb
+C:\Users\Gerardo\Desktop\Eriberto\Torrey\REPOS\PLU_PRINTER\trunk\PLU_PRINTER\bin\Debug\PLU_PRINTER.exe.config
+C:\Users\Gerardo\Desktop\Eriberto\Torrey\REPOS\PLU_PRINTER\trunk\PLU_PRINTER\obj\Debug\PLU_PRINTER.exe
+C:\Users\Gerardo\Desktop\Eriberto\Torrey\REPOS\PLU_PRINTER\trunk\PLU_PRINTER\obj\Debug\PLU_PRINTER.pdb
+C:\Users\Gerardo\Desktop\Eriberto\Torrey\REPOS\PLU_PRINTER\trunk\PLU_PRINTER\bin\Debug\PLU_PRINTER.exe
+C:\Users\Gerardo\Desktop\Eriberto\Torrey\REPOS\PLU_PRINTER\trunk\PLU_PRINTER\bin\Debug\PLU_PRINTER.pdb
+C:\Users\Gerardo\Desktop\Eriberto\Torrey\REPOS\PLU_PRINTER\trunk\PLU_PRINTER\obj\Debug\PLU_PRINTER.csprojResolveAssemblyReference.cache
+C:\Users\Gerardo\Desktop\Eriberto\Torrey\REPOS\PLU_PRINTER\trunk\PLU_PRINTER\obj\Debug\PLU_PRINTER.Form1.resources
+C:\Users\Gerardo\Desktop\Eriberto\Torrey\REPOS\PLU_PRINTER\trunk\PLU_PRINTER\obj\Debug\PLU_PRINTER.Properties.Resources.resources
+C:\Users\Gerardo\Desktop\Eriberto\Torrey\REPOS\PLU_PRINTER\trunk\PLU_PRINTER\obj\Debug\PLU_PRINTER.csproj.GenerateResource.Cache
+C:\Users\3639664\OneDrive - IMBERA S.A. DE C.V\PLU_PRINTER\trunk\PLU_PRINTER\obj\Debug\PLU_PRINTER.csprojAssemblyReference.cache
+C:\Users\3639664\OneDrive - IMBERA S.A. DE C.V\PLU_PRINTER\trunk\PLU_PRINTER\obj\Debug\PLU_PRINTER.Form1.resources
+C:\Users\3639664\OneDrive - IMBERA S.A. DE C.V\PLU_PRINTER\trunk\PLU_PRINTER\obj\Debug\PLU_PRINTER.Properties.Resources.resources
+C:\Users\3639664\OneDrive - IMBERA S.A. DE C.V\PLU_PRINTER\trunk\PLU_PRINTER\obj\Debug\PLU_PRINTER.csproj.GenerateResource.cache
+C:\Users\3639664\OneDrive - IMBERA S.A. DE C.V\PLU_PRINTER\trunk\PLU_PRINTER\obj\Debug\PLU_PRINTER.csproj.CoreCompileInputs.cache
+C:\Users\3639664\OneDrive - IMBERA S.A. DE C.V\PLU_PRINTER\trunk\PLU_PRINTER\obj\Debug\PLU_PRINTER.exe
+C:\Users\3639664\OneDrive - IMBERA S.A. DE C.V\PLU_PRINTER\trunk\PLU_PRINTER\obj\Debug\PLU_PRINTER.pdb
+C:\Users\3639664\OneDrive - IMBERA S.A. DE C.V\PLU_PRINTER\trunk\PLU_PRINTER\bin\Debug\PLU_PRINTER.exe.config
+C:\Users\3639664\OneDrive - IMBERA S.A. DE C.V\PLU_PRINTER\trunk\PLU_PRINTER\bin\Debug\PLU_PRINTER.exe
+C:\Users\3639664\OneDrive - IMBERA S.A. DE C.V\PLU_PRINTER\trunk\PLU_PRINTER\bin\Debug\PLU_PRINTER.pdb
+C:\Users\Gerardo\OneDrive - IMBERA S.A. DE C.V\PLU_PRINTER\trunk\PLU_PRINTER\bin\Debug\PLU_PRINTER.exe.config
+C:\Users\Gerardo\OneDrive - IMBERA S.A. DE C.V\PLU_PRINTER\trunk\PLU_PRINTER\obj\Debug\PLU_PRINTER.exe
+C:\Users\Gerardo\OneDrive - IMBERA S.A. DE C.V\PLU_PRINTER\trunk\PLU_PRINTER\obj\Debug\PLU_PRINTER.pdb
+C:\Users\Gerardo\OneDrive - IMBERA S.A. DE C.V\PLU_PRINTER\trunk\PLU_PRINTER\bin\Debug\PLU_PRINTER.exe
+C:\Users\Gerardo\OneDrive - IMBERA S.A. DE C.V\PLU_PRINTER\trunk\PLU_PRINTER\bin\Debug\PLU_PRINTER.pdb
+C:\Users\Gerardo\OneDrive - IMBERA S.A. DE C.V\PLU_PRINTER\trunk\PLU_PRINTER\obj\Debug\PLU_PRINTER.csprojResolveAssemblyReference.cache
+C:\Users\Gerardo\OneDrive - IMBERA S.A. DE C.V\PLU_PRINTER\trunk\PLU_PRINTER\obj\Debug\PLU_PRINTER.Form1.resources
+C:\Users\Gerardo\OneDrive - IMBERA S.A. DE C.V\PLU_PRINTER\trunk\PLU_PRINTER\obj\Debug\PLU_PRINTER.Properties.Resources.resources
+C:\Users\Gerardo\OneDrive - IMBERA S.A. DE C.V\PLU_PRINTER\trunk\PLU_PRINTER\obj\Debug\PLU_PRINTER.csproj.GenerateResource.Cache
+C:\Users\3639664\OneDrive - IMBERA S.A. DE C.V\RONGTA\SOFTWARE\PLU_PRINTER\bin\Debug\PLU_PRINTER.exe.config
+C:\Users\3639664\OneDrive - IMBERA S.A. DE C.V\RONGTA\SOFTWARE\PLU_PRINTER\bin\Debug\PLU_PRINTER.exe
+C:\Users\3639664\OneDrive - IMBERA S.A. DE C.V\RONGTA\SOFTWARE\PLU_PRINTER\bin\Debug\PLU_PRINTER.pdb
+C:\Users\3639664\OneDrive - IMBERA S.A. DE C.V\RONGTA\SOFTWARE\PLU_PRINTER\obj\Debug\PLU_PRINTER.csprojAssemblyReference.cache
+C:\Users\3639664\OneDrive - IMBERA S.A. DE C.V\RONGTA\SOFTWARE\PLU_PRINTER\obj\Debug\PLU_PRINTER.Form1.resources
+C:\Users\3639664\OneDrive - IMBERA S.A. DE C.V\RONGTA\SOFTWARE\PLU_PRINTER\obj\Debug\PLU_PRINTER.Properties.Resources.resources
+C:\Users\3639664\OneDrive - IMBERA S.A. DE C.V\RONGTA\SOFTWARE\PLU_PRINTER\obj\Debug\PLU_PRINTER.csproj.GenerateResource.cache
+C:\Users\3639664\OneDrive - IMBERA S.A. DE C.V\RONGTA\SOFTWARE\PLU_PRINTER\obj\Debug\PLU_PRINTER.csproj.CoreCompileInputs.cache
+C:\Users\3639664\OneDrive - IMBERA S.A. DE C.V\RONGTA\SOFTWARE\PLU_PRINTER\obj\Debug\PLU_PRINTER.exe
+C:\Users\3639664\OneDrive - IMBERA S.A. DE C.V\RONGTA\SOFTWARE\PLU_PRINTER\obj\Debug\PLU_PRINTER.pdb
+C:\Users\Gerardo\OneDrive - IMBERA S.A. DE C.V\RONGTA\SOFTWARE\PLU_PRINTER\bin\Debug\PLU_PRINTER.exe.config
+C:\Users\Gerardo\OneDrive - IMBERA S.A. DE C.V\RONGTA\SOFTWARE\PLU_PRINTER\obj\Debug\PLU_PRINTER.exe
+C:\Users\Gerardo\OneDrive - IMBERA S.A. DE C.V\RONGTA\SOFTWARE\PLU_PRINTER\obj\Debug\PLU_PRINTER.pdb
+C:\Users\Gerardo\OneDrive - IMBERA S.A. DE C.V\RONGTA\SOFTWARE\PLU_PRINTER\bin\Debug\PLU_PRINTER.exe
+C:\Users\Gerardo\OneDrive - IMBERA S.A. DE C.V\RONGTA\SOFTWARE\PLU_PRINTER\bin\Debug\PLU_PRINTER.pdb
+C:\Users\Gerardo\OneDrive - IMBERA S.A. DE C.V\RONGTA\SOFTWARE\PLU_PRINTER\obj\Debug\PLU_PRINTER.csprojResolveAssemblyReference.cache
+C:\Users\Gerardo\OneDrive - IMBERA S.A. DE C.V\RONGTA\SOFTWARE\PLU_PRINTER\obj\Debug\PLU_PRINTER.Form1.resources
+C:\Users\Gerardo\OneDrive - IMBERA S.A. DE C.V\RONGTA\SOFTWARE\PLU_PRINTER\obj\Debug\PLU_PRINTER.Properties.Resources.resources
+C:\Users\Gerardo\OneDrive - IMBERA S.A. DE C.V\RONGTA\SOFTWARE\PLU_PRINTER\obj\Debug\PLU_PRINTER.csproj.GenerateResource.Cache
+C:\Users\3639664\Desktop\TestUartImpresor\SOFTWARE\SOFTWARE_PLU_PRINTER_LOGO\PLU_PRINTER\bin\Debug\PLU_PRINTER.exe.config
+C:\Users\3639664\Desktop\TestUartImpresor\SOFTWARE\SOFTWARE_PLU_PRINTER_LOGO\PLU_PRINTER\bin\Debug\PLU_PRINTER.exe
+C:\Users\3639664\Desktop\TestUartImpresor\SOFTWARE\SOFTWARE_PLU_PRINTER_LOGO\PLU_PRINTER\bin\Debug\PLU_PRINTER.pdb
+C:\Users\3639664\Desktop\TestUartImpresor\SOFTWARE\SOFTWARE_PLU_PRINTER_LOGO\PLU_PRINTER\obj\Debug\PLU_PRINTER.csprojAssemblyReference.cache
+C:\Users\3639664\Desktop\TestUartImpresor\SOFTWARE\SOFTWARE_PLU_PRINTER_LOGO\PLU_PRINTER\obj\Debug\PLU_PRINTER.Form1.resources
+C:\Users\3639664\Desktop\TestUartImpresor\SOFTWARE\SOFTWARE_PLU_PRINTER_LOGO\PLU_PRINTER\obj\Debug\PLU_PRINTER.Properties.Resources.resources
+C:\Users\3639664\Desktop\TestUartImpresor\SOFTWARE\SOFTWARE_PLU_PRINTER_LOGO\PLU_PRINTER\obj\Debug\PLU_PRINTER.csproj.GenerateResource.cache
+C:\Users\3639664\Desktop\TestUartImpresor\SOFTWARE\SOFTWARE_PLU_PRINTER_LOGO\PLU_PRINTER\obj\Debug\PLU_PRINTER.csproj.CoreCompileInputs.cache
+C:\Users\3639664\Desktop\TestUartImpresor\SOFTWARE\SOFTWARE_PLU_PRINTER_LOGO\PLU_PRINTER\obj\Debug\PLU_PRINTER.exe
+C:\Users\3639664\Desktop\TestUartImpresor\SOFTWARE\SOFTWARE_PLU_PRINTER_LOGO\PLU_PRINTER\obj\Debug\PLU_PRINTER.pdb
