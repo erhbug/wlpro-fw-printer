@@ -57,7 +57,7 @@ TIM_HandleTypeDef htim14;
 /* USER CODE BEGIN PV */
 /* Private variables ---------------------------------------------------------*/
 
-char *FirmwareVersion="PRINTER 21/04/08 R1\r\n";
+char *FirmwareVersion="PRINT_W-LABEL_2207R0\r\n";
 
 
 extern char BuferToPrint[];
@@ -191,13 +191,13 @@ void SendPrinterInfo(void){
 	int a,b;
 	char txt[50];
 	a=b=0;
-	while(a<30){
+	/*hile(a<30){
 		HAL_Delay(1);	
 	  if(HAL_GPIO_ReadPin(Feed_GPIO_Port, Feed_Pin)==0)b++;
 		a++;
-	}	
+	}	*/
 	ReadSensors();
-	if(a==b){	
+	//if(a==b){	
 		IWDG->KR =  IWDG_KEY_REFRESH;
 		SendAndPrint("\r\n\nTORREY PRINTER.\n\r\n",FONT8x16);		
 		
@@ -299,7 +299,7 @@ SendAndPrint(" \r\n",FONT24x24);
 	PrintTextLine("  ",FONT8x16);
 	PrintTextLine("Items: 3         $ 31.95",font);*/	
 	
-	}
+	//}
 	
   //PrintTextLine("  ",FONT24x32);
 }
@@ -438,7 +438,7 @@ int main(void){
 	HAL_Delay(20);
 		vSend_String_Usart(FirmwareVersion);
 	
-//SendPrinterInfo();	
+SendPrinterInfo();	
 
 RTC_Init();
 
